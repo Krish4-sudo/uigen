@@ -1,0 +1,186 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a pricing card component with a title, price, list of features, and a CTA button
+            - img [ref=e57]
+          - generic [ref=e80]:
+            - img [ref=e83]
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - img [ref=e90]
+                - generic [ref=e93]: Creating App.jsx
+              - separator [ref=e94]
+              - generic [ref=e95]:
+                - img [ref=e96]
+                - generic [ref=e99]: Creating PricingCard.jsx
+              - separator [ref=e100]
+              - generic [ref=e101]:
+                - paragraph [ref=e102]:
+                  - text: Done! Created a reusable
+                  - code [ref=e378]: PricingCard
+                  - text: "component with:"
+                - list [ref=e104]:
+                  - listitem [ref=e105]: Title, price, and period
+                  - listitem [ref=e106]: Feature list with checkmark icons
+                  - listitem [ref=e107]: CTA button with click handler
+                  - listitem [ref=e108]: Fully styled with Tailwind CSS
+                - paragraph [ref=e109]: The example in App.jsx shows how to use it with sample data.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [ref=e35]
+          - tab "Code" [selected] [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - generic [ref=e111]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic [ref=e119] [cursor=pointer]:
+              - img [ref=e120]
+              - img [ref=e122]
+              - generic [ref=e124]: components
+            - generic [ref=e127] [cursor=pointer]:
+              - img [ref=e128]
+              - generic [ref=e133]: PricingCard.jsx
+          - generic [ref=e135] [cursor=pointer]:
+            - img [ref=e136]
+            - generic [ref=e141]: App.jsx
+        - separator [ref=e142]
+        - code [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e150]:
+              - generic [ref=e379]:
+                - generic [ref=e380] [cursor=pointer]: 
+                - generic [ref=e381]: "1"
+              - generic [ref=e157]: "2"
+              - generic [ref=e383]: "3"
+              - generic [ref=e385]: "4"
+              - generic [ref=e387]: "5"
+              - generic [ref=e389]: "6"
+              - generic [ref=e173]: "7"
+              - generic [ref=e390]:
+                - generic [ref=e391] [cursor=pointer]: 
+                - generic [ref=e392]: "8"
+              - generic [ref=e393]:
+                - generic [ref=e394] [cursor=pointer]: 
+                - generic [ref=e395]: "9"
+              - generic [ref=e396]:
+                - generic [ref=e397] [cursor=pointer]: 
+                - generic [ref=e398]: "10"
+              - generic [ref=e182]: "11"
+              - generic [ref=e184]: "12"
+              - generic [ref=e186]: "13"
+              - generic [ref=e188]: "14"
+              - generic [ref=e399]:
+                - generic [ref=e400] [cursor=pointer]: 
+                - generic [ref=e401]: "15"
+              - generic [ref=e192]: "16"
+              - generic [ref=e194]: "17"
+              - generic [ref=e196]: "18"
+              - generic [ref=e408]: "19"
+              - generic [ref=e410]: "20"
+              - generic [ref=e411]:
+                - generic [ref=e412] [cursor=pointer]: 
+                - generic [ref=e413]: "21"
+              - generic [ref=e414]:
+                - generic [ref=e415] [cursor=pointer]: 
+                - generic [ref=e416]: "22"
+              - generic [ref=e417]:
+                - generic [ref=e418] [cursor=pointer]: 
+                - generic [ref=e419]: "23"
+              - generic [ref=e421]:
+                - generic [ref=e422] [cursor=pointer]: 
+                - generic [ref=e423]: "24"
+              - generic [ref=e425]: "25"
+              - generic [ref=e429]: "26"
+              - generic [ref=e431]: "27"
+              - generic [ref=e432]:
+                - generic [ref=e433] [cursor=pointer]: 
+                - generic [ref=e434]: "28"
+              - generic [ref=e435]:
+                - generic [ref=e436] [cursor=pointer]: 
+                - generic [ref=e437]: "29"
+              - generic [ref=e439]: "30"
+              - generic [ref=e441]: "31"
+              - generic [ref=e447]: "32"
+              - generic [ref=e449]: "33"
+              - generic [ref=e451]: "34"
+              - generic [ref=e453]: "35"
+              - generic [ref=e455]: "36"
+              - generic [ref=e457]: "37"
+              - generic [ref=e459]: "38"
+              - generic [ref=e461]: "39"
+              - generic [ref=e463]: "40"
+              - generic [ref=e464]:
+                - generic [ref=e465] [cursor=pointer]: 
+                - generic [ref=e466]: "41"
+              - generic [ref=e468]: "42"
+              - generic [ref=e470]: "43"
+            - generic [ref=e311]:
+              - generic [ref=e747]: "export default function PricingCard({"
+              - generic [ref=e749]: title,
+              - generic [ref=e751]: price,
+              - generic [ref=e753]: period = '',
+              - generic [ref=e755]: features = [],
+              - generic [ref=e757]: buttonText = 'Get Started',
+              - generic [ref=e759]: "onButtonClick = () => {}"
+              - generic [ref=e761]: "}) {"
+              - generic [ref=e763]: return (
+              - generic [ref=e765]: <div className="bg-white rounded-lg
+              - generic [ref=e767]: "{/* Title */}"
+              - generic [ref=e769]: <h2 className="text-2xl font-bold
+              - generic [ref=e772]: "{/* Price */}"
+              - generic [ref=e774]: <div className="mb-6">
+              - generic [ref=e776]: <span className="text-5xl
+              - generic [ref=e778]: <span className="text-gray-600
+              - generic [ref=e780]: </div>
+              - generic [ref=e782]: shadow-lg p-8 w-full max-w-sm">
+              - generic [ref=e784]: "text-gray-900 mb-2\">{title}</h2>"
+              - generic [ref=e786]: "font-bold text-gray-900\">{price}</"
+              - generic [ref=e788]: span>
+              - generic [ref=e790]: "ml-2\">{period}</span>"
+              - generic [ref=e793]: "{/* Features List */}"
+              - generic [ref=e795]: <ul className="space-y-3 mb-8">
+              - generic [ref=e797]: "{features.map((feature, index) => ("
+              - generic [ref=e799]: "<li key={index} className=\"flex"
+              - generic [ref=e801]: items-center text-gray-700">
+              - generic [ref=e803]: <svg
+              - generic [ref=e805]: className="w-5 h-5
+              - generic [ref=e807]: text-green-500 mr-3
+              - generic [ref=e809]: flex-shrink-0"
+              - generic [ref=e811]: fill="currentColor"
+              - generic [ref=e813]: viewBox="0 0 20 20"
+              - generic [ref=e815]: ">"
+              - generic [ref=e817]: <path
+              - generic [ref=e819]: fillRule="evenodd"
+              - generic [ref=e821]: d="M16.707 5.293a1 1 0 010
+              - generic [ref=e823]: 1.414l-8 8a1 1 0 01-1.414
+              - generic [ref=e825]: 0l-4-4a1 1 0 011.414-1.
+              - generic [ref=e827]: 414L8 12.586l7.293-7.293a1
+              - generic [ref=e829]: 1 0 011.414 0z"
+              - generic [ref=e831]: clipRule="evenodd"
+              - generic [ref=e833]: />
+              - generic [ref=e835]: </svg>
+              - generic [ref=e837]: "{feature}"
+              - generic [ref=e839]: </li>
+              - generic [ref=e841]: "))}"
+              - generic [ref=e843]: </ul>
+              - generic [ref=e846]: "{/* CTA Button */}"
+              - generic [ref=e848]: <button
+              - generic [ref=e850]: "onClick={onButtonClick}"
+              - generic [ref=e852]: className="w-full bg-blue-600
+            - textbox "Editor content" [ref=e365]: "</button> </div> ); }"
+  - alert [ref=e50]
+  - generic [ref=e366]:
+    - alert
+    - alert

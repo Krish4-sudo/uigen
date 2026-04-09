@@ -1,0 +1,69 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a pricing card component with a title, price, list of features, and a CTA button
+            - img [ref=e57]
+          - generic [ref=e80]:
+            - img [ref=e83]
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - img [ref=e90]
+                - generic [ref=e93]: Creating App.jsx
+              - separator [ref=e94]
+              - generic [ref=e95]:
+                - img [ref=e96]
+                - generic [ref=e99]: Creating PricingCard.jsx
+              - separator [ref=e100]
+              - generic [ref=e101]:
+                - paragraph [ref=e102]:
+                  - text: Done! Created a reusable
+                  - code [ref=e854]: PricingCard
+                  - text: "component with:"
+                - list [ref=e104]:
+                  - listitem [ref=e105]: Title, price, and period
+                  - listitem [ref=e106]: Feature list with checkmark icons
+                  - listitem [ref=e107]: CTA button with click handler
+                  - listitem [ref=e108]: Fully styled with Tailwind CSS
+                - paragraph [ref=e109]: The example in App.jsx shows how to use it with sample data.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [active] [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e856]:
+        - generic [ref=f3e4]:
+          - heading "Professional" [level=2] [ref=f3e5]
+          - generic [ref=f3e6]: $29/month
+          - list [ref=f3e7]:
+            - listitem [ref=f3e8]:
+              - img [ref=f3e9]
+              - text: Up to 100 projects
+            - listitem [ref=f3e11]:
+              - img [ref=f3e12]
+              - text: Advanced analytics
+            - listitem [ref=f3e14]:
+              - img [ref=f3e15]
+              - text: Priority support
+            - listitem [ref=f3e17]:
+              - img [ref=f3e18]
+              - text: Custom integrations
+            - listitem [ref=f3e20]:
+              - img [ref=f3e21]
+              - text: API access
+          - button "Get Started" [ref=f3e23] [cursor=pointer]
+  - alert [ref=e50]
+  - generic [ref=e366]:
+    - alert
+    - alert

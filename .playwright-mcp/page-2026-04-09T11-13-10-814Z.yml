@@ -1,0 +1,101 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e51]:
+            - generic [ref=e54]: Create a pricing card component with a title, price, list of features, and a CTA button
+            - img [ref=e57]
+          - generic [ref=e73]:
+            - img [ref=e76]
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - img [ref=e83]
+                - generic [ref=e86]: Creating App.jsx
+              - separator [ref=e87]
+              - generic [ref=e88]:
+                - paragraph [ref=e89]: "Done! Created a pricing card component with:"
+                - list [ref=e90]:
+                  - listitem [ref=e91]:
+                    - strong [ref=e92]: Title
+                    - text: and
+                    - strong [ref=e93]: price
+                    - text: display with gradient text
+                  - listitem [ref=e94]:
+                    - strong [ref=e95]: Feature list
+                    - text: with checkmark icons
+                  - listitem [ref=e96]:
+                    - strong [ref=e97]: CTA button
+                    - text: with hover effects
+                  - listitem [ref=e98]:
+                    - strong [ref=e99]: Highlighted variant
+                    - text: for the popular plan (scaled up, gradient border, warm accent colors)
+                  - listitem [ref=e100]: Dark slate background with amber/orange accents for a premium feel
+                - paragraph [ref=e101]: The component is reusable and accepts props for customization.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e102]:
+        - generic [ref=f5e3]:
+          - generic [ref=f5e5]:
+            - heading "Professional" [level=3] [ref=f5e6]
+            - generic [ref=f5e7]: $29/month
+            - list [ref=f5e8]:
+              - listitem [ref=f5e9]:
+                - img [ref=f5e10]
+                - generic [ref=f5e12]: Up to 100 projects
+              - listitem [ref=f5e13]:
+                - img [ref=f5e14]
+                - generic [ref=f5e16]: Advanced analytics
+              - listitem [ref=f5e17]:
+                - img [ref=f5e18]
+                - generic [ref=f5e20]: Priority support
+              - listitem [ref=f5e21]:
+                - img [ref=f5e22]
+                - generic [ref=f5e24]: Custom integrations
+              - listitem [ref=f5e25]:
+                - img [ref=f5e26]
+                - generic [ref=f5e28]: Team collaboration
+              - listitem [ref=f5e29]:
+                - img [ref=f5e30]
+                - generic [ref=f5e32]: API access
+            - button "Get Started" [ref=f5e33] [cursor=pointer]
+          - generic [ref=f5e35]:
+            - generic [ref=f5e36]: MOST POPULAR
+            - heading "Enterprise" [level=3] [ref=f5e37]
+            - generic [ref=f5e38]: $99/month
+            - list [ref=f5e39]:
+              - listitem [ref=f5e40]:
+                - img [ref=f5e41]
+                - generic [ref=f5e43]: Unlimited projects
+              - listitem [ref=f5e44]:
+                - img [ref=f5e45]
+                - generic [ref=f5e47]: Real-time analytics
+              - listitem [ref=f5e48]:
+                - img [ref=f5e49]
+                - generic [ref=f5e51]: 24/7 dedicated support
+              - listitem [ref=f5e52]:
+                - img [ref=f5e53]
+                - generic [ref=f5e55]: Custom integrations
+              - listitem [ref=f5e56]:
+                - img [ref=f5e57]
+                - generic [ref=f5e59]: Advanced team tools
+              - listitem [ref=f5e60]:
+                - img [ref=f5e61]
+                - generic [ref=f5e63]: Full API access
+              - listitem [ref=f5e64]:
+                - img [ref=f5e65]
+                - generic [ref=f5e67]: SLA guarantee
+            - button "Contact Sales" [ref=f5e68] [cursor=pointer]
+  - alert [ref=e50]
